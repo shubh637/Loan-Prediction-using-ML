@@ -1,4 +1,4 @@
-# loan-prediction-using-ML
+# Loan-prediction-using-ML
 used fot the prediction if loan will be approved or not .
 things it is doing
 1.pre_processing

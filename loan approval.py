@@ -248,6 +248,9 @@ print("the  navie_bayes accuracy:",metrics.accuracy_score(y_predict3,y_test))
 
 # In[ ]:
 
-
+#classification report
+from sklearn.metrics import classification_report
+report=classification_report(y_test,y_pred)
+print(report)
 
 

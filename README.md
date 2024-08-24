@@ -6,7 +6,7 @@ things it is doing
 ## 3.Classication using different classification models
 ### 1.Random forest model
 ### 2.Logistic Regression 
-## 3.Naive bayes
-## 4.Decision Tree Classifier
-## 5.KMean classifier
+### 3.Naive bayes
+### 4.Decision Tree Classifier
+### 5.KMean classifier
 ## 4.prediction with different accuracy 
